@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="profile.jpg" width="350"/>
+  <img src="1b15a885-a71f-4504-bea1-ba96d1c67aa3.png" width="350"/>
 </p>
 
 ---
@@ -40,8 +40,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eunbogi99-cyber&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunbogi99-cyber&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/eunbogi99-cyber
 
 ---
 
