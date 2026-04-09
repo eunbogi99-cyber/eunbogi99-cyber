@@ -1,6 +1,6 @@
 # 👋 Hello, I'm 이은복
 
-![profile](./profile.jpg)
+<img src="https://raw.githubusercontent.com/본인아이디/레포이름/main/profile.jpg" width="400"/>
 
 🎓 대덕소프트웨어마이스터고 1학년  
 💻 Backend Developer  
